@@ -1,5 +1,5 @@
 # CT005 – Lab05
-- *Họ tên:* Giang
+- *Họ tên:* Đinh Thu Giang
 - *MSSV:* giangb2605802
 - *Lớp học phần:* CT005_Lab05
 
