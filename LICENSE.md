@@ -1,7 +1,7 @@
 # Giấy phép & Bản quyền
 
 ## Bản quyền nội dung
-Copyright © 2026 [Họ tên bạn] – MSSV: giangb2605802.
+Copyright © 2026 Đinh Thu Giang – MSSV: giangb2605802.
 Tất cả nội dung do cá nhân tạo ra thuộc phạm vi bài tập học phần.
 
 ## Nguồn tài nguyên miễn phí
